@@ -910,7 +910,7 @@ function flushArt(){
 function loadArt(key){
   if (artState[key]) return artState[key].p;
   const st = {status: 'loading'};
-  st.p = fetch('lib/art-' + key + '.json', {cache: 'force-cache'}).then(r => {
+  st.p = fetch('art-' + key + '.json', {cache: 'force-cache'}).then(r => {
     if (!r.ok) throw new Error('http ' + r.status);
     return r.json();
   }).then(map => {
