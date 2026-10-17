@@ -1,0 +1,301 @@
+# Comptoir des Builds
+
+Builds, annexes et remplaçants pour The Bazaar
+
+8 builds, par héros. Chaque objet porte son rôle dans le build et la raison de sa présence.
+
+## Pygmalien · Vignoble & Golf
+
+Le Vignoble et les Clubs de Golf sont obligatoires. L'Oiseau et les Bandages sont presque toujours là mais se remplacent. Pain de Savon, Textiles et Tentes de Luxe font gagner quand ils tombent.
+
+_Stats : Bazaar DB, patch 19.0 (hotfix du 8 octobre)_
+
+### Le core
+
+- **Vignoble** (Vineyard) · Obligatoire
+- **Clubs de Golf** (Golf Clubs) · Obligatoire
+- **Oiseau Uwashiwali** (Uwashiwali Bird) · Moteur
+- **Bandages** · Moteur
+
+### Variante 1 : Le build visé
+
+Elle ajoute :
+
+- **Pain de Savon** (Bar of Soap) · Key
+- **Textiles** · Key : Commence en Or : à viser en fin de run.
+- **Tentes de Luxe** (Luxury Tents) · Key : Commence en Or : à viser en fin de run.
+
+Board type : Vignoble, Clubs de Golf, Textiles, Oiseau Uwashiwali, Bandages, Pain de Savon.
+
+### Peut rentrer
+
+Des objets qui se glissent dans le build à la place d'un autre.
+
+- **Fontaine** (Fountain) · Option
+- **Plantes Grasses** (Succulents) · Option
+- **Lavomatique** · Option
+
+## Pygmalien · Arbre et fournaise à monnaie
+
+1 run : 10 victoires.
+
+### Le core
+
+- **Money Tree** · Obligatoire
+- **Money Furnace** · Obligatoire
+
+### Variante 1 : Fournaise propriété
+
+Quand le tag propriété est récupéré sur la fournaise, money tree peut rester un moteur depuis le coffre et laisser de la place pour plus de combo avec la fournaise
+
+Elle ajoute :
+
+- **Balcony** · Moteur : double la valeur de la fournaise, et donc son burn, et réduit son cd (important)
+- **Keychain** · Key : Redéclenche la fournaise bien plus tôt qu'elle ne le pourrait autrement
+- **Tentes de Luxe** (Luxury Tents) · Key : exceptionnel si enchantement heal récupéré sur clés ou sur fournaise
+
+Peut rentrer dans cette variante :
+
+- **Oiseau Uwashiwali** (Uwashiwali Bird) · Option : Excellent avec tentes de luxe ou textiles
+- **Oinkment** · Option
+- **Textiles** · Option : Bien si beaucoup de heal pour charger la fournaise
+- **Abacus** · Option : Bon moteur de value pour fournaise
+- **Bandages** · Option : heal rapide
+
+Board type : Money Furnace, Balcony, Oinkment, Oiseau Uwashiwali, Keychain, Tentes de Luxe.
+
+## Pygmalien · Sources chaudes
+
+1 run : 8 victoires.
+
+### Le core
+
+- **Private Hot Springs** · Obligatoire
+
+### Variante 1 : Ice ludge spam
+
+Elle ajoute :
+
+- **Ice Luge** · Moteur : reduction de cd pour spam les sources chaudes
+
+Peut rentrer dans cette variante :
+
+- **Ice Cream Truck** · Option : boucle de charge avec les bains
+
+Board type : Private Hot Springs, Ice Luge, Ice Cream Truck, Stopwatch, Stopwatch, Icicle.
+
+### Peut rentrer
+
+Des objets qui se glissent dans le build à la place d'un autre.
+
+- **Badblocker** · Option : Si enchantement freeze et beaucoup d'item à +10 de value > multicast élévé qui charge bien sources chaudes
+- **Stopwatch** · Key : Gros freeze général bien pour les springs
+- **Icicle** · Option : instant charge au début du combat
+- **Steam Ladle** · Option : profite très bien du freer
+
+### Comment le jouer
+
+Chercher des items qui freeze rapidement, possiblement des items qui se chargent entre eux pour spam les sources chaudes, ice luge diamant ou 2 amo peut descendre à 2s le cd de ces dernières, les enchantement freeze sur des items non freeze peuvent être bons
+
+## Pygmalien · Coincure
+
+monter la value de coincure en combat ( et hors combat si possible) pour faire profiter aux armes et aux items de heals de gros bonus, avoir des items de heal et de dégat rapides est souvent rentable
+
+1 run : 10 victoires.
+
+### Le core
+
+- **Coincure** · Obligatoire
+
+### Variante 1 : Jouets
+
+Elle ajoute :
+
+- **Bandages** · Moteur
+- **Kukri** · Moteur
+- **Yo-Yo** · Moteur
+- **Piggles Launcher** · Moteur
+
+Peut rentrer dans cette variante :
+
+- **Model Ship** · Option : très bon avec yo-yo
+- **Marbles** · Option : très bon depuis que coincure profite aussi du slow
+- **Haladie** · Option
+- **Piggles Board** · Option : charge les jouets entre eux pour plus de proc
+- **Premium Green Piggles** · Option : jouet + heal rapide
+
+### Peut rentrer
+
+Des objets qui se glissent dans le build à la place d'un autre.
+
+- **Plantes Grasses** (Succulents) · Option
+- **PenFT** · Option
+
+### Comment le jouer
+
+chercher des items de heal et de dégats rapides, les items qui font les deux sont excellent, enchant heal sur item damage ( ou inversement) apporte beaucoup de value, des items qui rajoute de la value flat peuvent rentrer dans le  build également
+
+## Vanessa · Shield
+
+Avoir un core stacké peut donner des builds shield -> damage, un item de conversion shield > damage , où un enchantement offensif sur Cove offre la transition.
+
+1 run : 10 victoires.
+
+### Le core
+
+- **Cove** · Obligatoire : Générateur de shield principal
+- **Force Field** · Moteur : Meilleure conversion shield>damage pour ce build. Si tu ne l'as pas : Spiky Shield, Wild Boar, Crusher Claw, Pillbuggy, Durian
+
+### Variante 1 : Wheel
+
+Elle ajoute :
+
+- **Captain's Wheel**
+- **Coral Armor**
+
+Board type : Coral Armor, Force Field, Captain's Wheel, Cove.
+
+### Variante 2 : Penthouse
+
+Elle ajoute :
+
+- **Penthouse** · Option
+
+Board type : Penthouse, Wild Boar, Rowboat, Cove.
+
+### Variante 3 : The boss
+
+Elle ajoute :
+
+- **The Boss**
+
+Board type : The Boss, Cove, Rowboat, Force Field.
+
+### Peut rentrer
+
+Des objets qui se glissent dans le build à la place d'un autre.
+
+- **Bunker** · Option
+- **Wild Boar** · Key. Remplace : Force Field
+- **Wireless Headset** · Option
+- **Crusher Claw** · Option. Remplace : Force Field
+- **Spiky Shield** · Key. Remplace : Force Field
+- **Pillbuggy** · Key
+- **Suppressor** · Option
+- **Rowboat** · Option
+- **Seashadow** · Option
+- **Abacus** · Option
+- **Durian** · Key. Remplace : Force Field
+- **Balcony** · Option
+
+### Comment le jouer
+
+Jouable en early sans conversion, besoin d'une conversion ensuite., cher her les rencontres et les marchands qui peuvent donner des items d'autres héros, Vanessa n'ayant pas de conversion shield   damage.
+
+Les items de haste, charge ou chances de crit rentrent très bien dans le build, un deuxième item de shield est toujours le bienvenue
+
+## Vanessa · Port ammo
+
+1 run : 10 victoires.
+
+### Le core
+
+- **Port** · Obligatoire
+
+### Variante 1 : Amo weapons
+
+Un port, du crit et des amo rapides et/ou multicast
+
+Elle ajoute :
+
+- **Dive Weights**
+- **Shuriken**
+- **Pistol Sword** · Key
+- **SMG**
+- **Nesting Doll**
+- **Throwing Knives**
+
+Peut rentrer dans cette variante :
+
+- **Cannonball** · Option
+- **Cannon** · Option
+
+Board type : Dive Weights, Port, Pistol Sword, Shuriken, SMG, Throwing Knives, Nesting Doll.
+
+### Variante 2 : Torpille
+
+Port + torpille et des items amo qui haste ou charge
+
+Elle ajoute :
+
+- **Torpedo** · Moteur
+- **Battery** · Key
+- **Flare** · Key
+- **Energy Potion** · Key : Haste pour la torpille
+- **Ni-Kola** · Key
+- **Flying Potion** · Key
+- **Power Bank** · Key
+
+Peut rentrer dans cette variante :
+
+- **Invulnerability Potion** · Option
+- **Ice Luge** · Option
+
+Board type : Energy Potion, Torpedo, Power Bank, Port, Battery, Flying Potion, Ni-Kola.
+
+### Peut rentrer
+
+Des objets qui se glissent dans le build à la place d'un autre.
+
+- **Holsters** · Option
+
+## Vanessa · Arbalète
+
+Arbalète et du haste !
+
+1 run : 10 victoires.
+
+### Le core
+
+- **Arbalest** · Obligatoire
+
+### Variante 1 : Tools captain's quarter
+
+Quartier du capitaine et beaucoup de tool pour plus de proc de haste
+
+Elle ajoute :
+
+- **Astrolabe**
+- **Dive Weights**
+- **Captain's Wheel** · Moteur
+- **Captain's Quarters** · Moteur. Si tu ne l'as pas : Water Wheel
+
+Peut rentrer dans cette variante :
+
+- **Water Wheel** · Option. Remplace : Captain's Quarters
+- **Beach Ball** · Option
+- **Rowboat** · Option
+- **Energy Potion** · Option
+
+Board type : Astrolabe, Dive Weights, Captain's Quarters, Captain's Wheel, Arbalest.
+
+## Vanessa · MOTO-JET
+
+1 run : 6 victoires.
+
+### Le core
+
+- **Jetbike** · Obligatoire
+
+### Variante 1 : Double glidder
+
+Elle ajoute :
+
+- **Stealth Glider** · Moteur, ×2
+- **Cirrus Feather** · Moteur
+
+Board type : Cirrus Feather, Jetbike, Stealth Glider, Stealth Glider.
+
+---
+
+Outil de fan non officiel. The Bazaar appartient à Tempo. Les stats viennent de Bazaar DB et restent indicatives.
