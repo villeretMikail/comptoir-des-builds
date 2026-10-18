@@ -1,0 +1,355 @@
+# Comptoir des Builds
+
+Builds, flex items and substitutes for The Bazaar
+
+8 builds, by hero. Each item shows its role in the build and why it is there.
+
+Item roles:
+
+- Must-have: The build doesn't exist without it.
+- Engine: Almost always there, but replaceable.
+- Key: Rare, but when it shows up, you win.
+- Option: An option when there's room left.
+
+## Pygmalien · Vineyard & Golf
+
+Vineyard and Golf Clubs are must-haves. The Bird and Bandages are almost always there but can be replaced. Bar of Soap, Textiles and Luxury Tents win games when they show up.
+
+_Stats: Bazaar DB, patch 19.0 (October 8 hotfix)_
+
+### The core
+
+- **Vineyard** · Must-have
+- **Golf Clubs** · Must-have
+- **Uwashiwali Bird** · Engine
+- **Bandages** · Engine
+
+### Variant 1: The target build
+
+Fast Heal items like Bar of Soap or Bandages, Multicast items like the Bird, or Textiles, which can charge the Golf Clubs quickly, all combine very well with this build. Luxury Tents double the Golf Clubs' scaling. Don't play Textiles with Luxury Tents if the Golf Clubs have a Heal enchantment, since Textiles don't charge Heal items.
+
+What it adds:
+
+- **Bar of Soap** · Key
+- **Textiles** · Key: Starts at Gold: aim for it late in the run.
+- **Luxury Tents** · Key: Starts at Gold: aim for it late in the run.
+
+Example board: Vineyard, Golf Clubs, Textiles, Uwashiwali Bird, Bandages, Bar of Soap.
+
+### Flex
+
+Items that can slot into the build in place of another.
+
+- **Fountain** · Option
+- **Succulents** · Option
+- **Lavomatique** · Option
+
+### How to play it
+
+The goal is to get the Vineyard and the Golf Clubs, then find sources of Heal (or Slow) that scale the Golf Clubs. The Lavomatique turns every Heal into a Slow and can potentially fit into any variant.
+
+## Pygmalien · Money Tree & Money Furnace
+
+1 run: 10 wins.
+
+### The core
+
+- **Money Tree** · Must-have
+- **Money Furnace** · Must-have
+
+### Variant 1: Property Furnace
+
+When the Furnace picks up the Property tag, Money Tree can stay an engine from the stash and leave room for more combos with the Furnace. Getting a Heal enchantment on the Furnace or the Keychain lets you add Luxury Tents for a Multicast that's a game changer.
+Otherwise, a Burn enchantment lets you play the Furnace if it's your only Burn item, even without the Property tag, and makes it trigger twice if it has the tag.
+Survivability, or Charge/Haste to hit faster, are good options to round it out.
+
+What it adds:
+
+- **Balcony** · Engine: Doubles the Furnace's value, and so its Burn, and reduces its cooldown (important)
+- **Keychain** · Key: Triggers the Furnace again much earlier than it could otherwise
+- **Luxury Tents** · Key: Exceptional if you get a Heal enchantment on the Keychain or the Furnace
+
+Flex for this variant:
+
+- **Uwashiwali Bird** · Option: Excellent with Luxury Tents or Textiles
+- **Oinkment** · Option
+- **Textiles** · Option: Good if you have lots of Heal to charge the Furnace
+- **Abacus** · Option: Good value engine for the Furnace
+- **Bandages** · Option: Fast Heal
+
+Example board: Money Furnace, Balcony, Oinkment, Uwashiwali Bird, Keychain, Luxury Tents.
+
+### How to play it
+
+The Tree generates Spare Change, and both it and the Furnace scale when you sell it. Raise your items' value by every means: items that give value are good picks, and generating value with Truffles on top of the coins can be a good idea, but watch your stash space. Anything that makes the Furnace fire faster is very useful once it's well stacked.
+
+## Pygmalien · Hot Springs
+
+1 run: 8 wins.
+
+### The core
+
+- **Private Hot Springs** · Must-have
+
+### Variant 1: Ice Luge spam
+
+With an Ice Cream Truck and an Ice Luge, especially with reduced Ammo, you can make good Freeze loops that trigger the Hot Springs reasonably fast.
+
+What it adds:
+
+- **Ice Luge** · Engine: Cooldown reduction to spam the Hot Springs
+
+Flex for this variant:
+
+- **Ice Cream Truck** · Option: Charge loop with the Hot Springs
+
+Example board: Private Hot Springs, Ice Luge, Ice Cream Truck, Stopwatch, Stopwatch, Icicle.
+
+### Flex
+
+Items that can slot into the build in place of another.
+
+- **Badblocker** · Option: With a Freeze enchantment and lots of items over 10 value: high Multicast that charges the Hot Springs well
+- **Stopwatch** · Key: Big board-wide Freeze, good for the Springs
+- **Icicle** · Option: Instant Charge at the start of combat
+- **Steam Ladle** · Option: Benefits a lot from Freeze
+
+### How to play it
+
+Look for items that Freeze quickly, ideally items that Charge each other to spam the Hot Springs. A Diamond Ice Luge, or 2 Ammo, can bring their cooldown down to 2s. Freeze enchantments on non-Freeze items can be good.
+Freeze items that target many items are very good with Hot Springs.
+
+## Pygmalien · Coincure
+
+Build up Coincure's value in combat (and out of combat if possible) so your weapons and Heal items get big bonuses. Having fast Heal and Damage items usually pays off.
+
+1 run: 10 wins.
+
+### The core
+
+- **Coincure** · Must-have
+
+### Variant 1: Toys
+
+In the Toys variant, the goal is to find a Yo-Yo, then Toys that help it hit fast, so it gets the most out of the damage Coincure gives it. Fast Heal items are obviously essential, and a Heal enchantment on the Yo-Yo is an absolute banger. Piggles Board also seems to allow good damage and Heal loops if you get it.
+Getting the Toy tag on Bandages or other Heal items is very good too.
+
+What it adds:
+
+- **Bandages** · Engine
+- **Kukri** · Engine
+- **Yo-Yo** · Engine
+- **Piggles Launcher** · Engine
+
+Flex for this variant:
+
+- **Model Ship** · Option: Very good with Yo-Yo
+- **Marbles** · Option: Very good now that Coincure also benefits from Slow
+- **Haladie** · Option
+- **Piggles Board** · Option: Charges the Toys off each other for more procs
+- **Premium Green Piggles** · Option: Toy + fast Heal
+
+### Flex
+
+Items that can slot into the build in place of another.
+
+- **Succulents** · Option
+- **PenFT** · Option
+
+### How to play it
+
+Look for fast Heal and Damage items; items that do both are excellent. A Heal enchantment on a Damage item (or the other way around) adds a lot of value. Items that add flat value can also fit in the build.
+Kukri has both by default, so it's often excellent in this kind of build.
+
+## Vanessa · Shield
+
+A stacked core can lead to shield -> damage builds: a shield > damage conversion item, or an offensive enchantment on Cove, provides the transition.
+
+1 run: 10 wins.
+
+### The core
+
+- **Cove** · Must-have: Main Shield generator
+- **Force Field** · Engine: Best shield > damage conversion for this build. If you don't have it: Spiky Shield (Same role, slower.), Wild Boar (Same role, slower.), Crusher Claw, Pillbuggy (Same role, slower.), Durian (Same role, a bit slower, but it can Slow when needed.)
+
+### Variant 1: Wheel
+
+With Coral Armor and Captain's Wheel, your Shield grows fast. The build's non-Vanessa items are a bit easier to get through certain encounters.
+
+What it adds:
+
+- **Captain's Wheel**
+- **Coral Armor**
+
+Example board: Coral Armor, Force Field, Captain's Wheel, Cove.
+
+### Variant 2: Penthouse
+
+Penthouse comes late in the run, but its low cooldown and its passive can make a faster loop with Cove. Since Penthouse takes three slots, favor a Medium shield > damage converter and an item that Hastes or Charges, or one that gives your Properties value.
+
+What it adds:
+
+- **Penthouse** · Option
+
+Flex for this variant:
+
+- **Abacus** · Option
+- **VIP Pass** · Option
+- **Captain's Wheel** · Option
+
+Example board: Penthouse, Wild Boar, Rowboat, Cove.
+
+### Variant 3: The boss
+
+The Boss adds extra damage, since it takes the damage of your shield converter (Force Field or another one), so its damage can climb fast. This variant has no second Shield item and nothing to boost Cove's Shield during the run, so it needs a Cove that triggers often and/or has a good base Shield.
+
+What it adds:
+
+- **The Boss**
+
+Example board: The Boss, Cove, Rowboat, Force Field.
+
+### Flex
+
+Items that can slot into the build in place of another.
+
+- **Bunker** · Option
+- **Wild Boar** · Key. Replaces: Force Field (Same role, slower.)
+- **Wireless Headset** · Option
+- **Crusher Claw** · Option. Replaces: Force Field
+- **Spiky Shield** · Key. Replaces: Force Field (Same role, slower.)
+- **Pillbuggy** · Key. Replaces: Force Field (Same role, slower.)
+- **Suppressor** · Option
+- **Rowboat** · Option
+- **Seashadow** · Option
+- **Durian** · Key. Replaces: Force Field (Same role, a bit slower, but it can Slow when needed.)
+- **Balcony** · Option
+
+### How to play it
+
+Hard to play without a shield > damage conversion: look for encounters and merchants that can give you items from other heroes, since Vanessa has no shield > damage conversion.
+Cove needs a good income to scale quickly through buying and selling.
+Haste, Charge or Crit Chance items fit the build very well, and a second Shield item is always welcome if Cove isn't enough.
+
+## Vanessa · Port ammo
+
+Once you have the Port, you can go for Vanessa's usual Ammo items and try for an Ammo-spam run that hits hard.
+
+1 run: 10 wins.
+
+### The core
+
+- **Port** · Must-have
+
+### Variant 1: Ammo weapons
+
+A Port, Crit, and fast and/or Multicast Ammo items
+
+What it adds:
+
+- **Dive Weights**
+- **Shuriken**
+- **Pistol Sword** · Key
+- **SMG**
+- **Nesting Doll**
+- **Throwing Knives**
+
+Flex for this variant:
+
+- **Cannonball** · Option
+- **Cannon** · Option
+- **Torpedo** · Option
+
+Example board: Dive Weights, Port, Pistol Sword, Shuriken, SMG, Throwing Knives, Nesting Doll.
+
+### Variant 2: Torpedo
+
+Port + Torpedo, plus Ammo items that Haste or Charge
+
+What it adds:
+
+- **Torpedo** · Engine
+- **Battery** · Key
+- **Flare** · Key
+- **Energy Potion** · Key: Haste for the Torpedo
+- **Ni-Kola** · Key
+- **Flying Potion** · Key
+- **Power Bank** · Key
+
+Flex for this variant:
+
+- **Invulnerability Potion** · Option
+- **Ice Luge** · Option
+
+Example board: Energy Potion, Torpedo, Power Bank, Port, Battery, Flying Potion, Ni-Kola.
+
+### Flex
+
+Items that can slot into the build in place of another.
+
+- **Holsters** · Option
+
+### How to play it
+
+Port has the advantage of offering Ammo items from other heroes, and some of them Haste or Charge. Combined with the Torpedo, you can get single-weapon builds that hit hard very fast: Port charges the Torpedo, and the Torpedo scales naturally with all the Ammo items that trigger fairly quickly.
+You can't always find Ammo items that Haste or Charge, so fast Ammo items can do the job too, especially with Pistol Sword, which benefits a lot from the other items spamming Ammo.
+
+## Vanessa · Arbalest
+
+Arbalest and lots of Haste!
+
+1 run: 10 wins.
+
+### The core
+
+- **Arbalest** · Must-have
+
+### Variant 1: Tools captain's quarter
+
+Captain's Quarters Hastes all your Tools AND reloads. With enough Tools, you get Haste on many items at once, especially since plenty of Tools can Haste. It's a good way to combine Haste and reloading for the Arbalest.
+
+What it adds:
+
+- **Astrolabe**
+- **Dive Weights**
+- **Captain's Wheel** · Engine
+- **Captain's Quarters** · Engine
+
+Flex for this variant:
+
+- **Beach Ball** · Option
+- **Rowboat** · Option
+- **Energy Potion** · Option
+
+Example board: Astrolabe, Dive Weights, Captain's Quarters, Captain's Wheel, Arbalest.
+
+### How to play it
+
+The Arbalest uses Haste to stack damage. The goal is to find a combination of items that generates lots of Haste, so it stacks as fast as possible and needs only a few hits to kill. There are several ways to get there, beyond the variants that will be added here: don't hesitate to try things.
+
+## Vanessa · Jetbike
+
+1 run: 6 wins.
+
+### The core
+
+- **Jetbike** · Must-have
+
+### Variant 1: Double Glider
+
+The Jetbike benefits a lot from fast Flying items: the two Stealth Gliders and the Cirrus Feather can charge it quickly. It can lack damage, so go for skills that help it kill fast.
+
+What it adds:
+
+- **Stealth Glider** · Engine, ×2
+- **Cirrus Feather** · Engine
+
+Example board: Cirrus Feather, Jetbike, Stealth Glider, Stealth Glider.
+
+### How to play it
+
+Find the Jetbike, then Flying items, and try to make fast loops by using your Flying items often. Stealth Glider is a good addition because it reduces the cooldown of Flying items.
+
+---
+
+Unofficial fan tool. The Bazaar belongs to Tempo. Stats come from Bazaar DB and are only a guide.
