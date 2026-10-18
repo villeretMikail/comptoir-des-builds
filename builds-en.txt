@@ -1,8 +1,8 @@
 # Comptoir des Builds
 
-Builds, flex items and substitutes for The Bazaar
+The Bazaar builds that adapt to what you find
 
-8 builds, by hero. Each item shows its role in the build and why it is there.
+9 builds, by hero. Each item shows its role in the build and why it is there.
 
 Item roles:
 
@@ -38,11 +38,11 @@ Example board: Vineyard, Golf Clubs, Textiles, Uwashiwali Bird, Bandages, Bar of
 
 ### Flex
 
-Items that can slot into the build in place of another.
+Items that fit the build's idea.
 
 - **Fountain** · Option
 - **Succulents** · Option
-- **Lavomatique** · Option
+- **Hogwash** · Option
 
 ### How to play it
 
@@ -107,7 +107,7 @@ Example board: Private Hot Springs, Ice Luge, Ice Cream Truck, Stopwatch, Stopwa
 
 ### Flex
 
-Items that can slot into the build in place of another.
+Items that fit the build's idea.
 
 - **Badblocker** · Option: With a Freeze enchantment and lots of items over 10 value: high Multicast that charges the Hot Springs well
 - **Stopwatch** · Key: Big board-wide Freeze, good for the Springs
@@ -151,7 +151,7 @@ Flex for this variant:
 
 ### Flex
 
-Items that can slot into the build in place of another.
+Items that fit the build's idea.
 
 - **Succulents** · Option
 - **PenFT** · Option
@@ -160,6 +160,32 @@ Items that can slot into the build in place of another.
 
 Look for fast Heal and Damage items; items that do both are excellent. A Heal enchantment on a Damage item (or the other way around) adds a lot of value. Items that add flat value can also fit in the build.
 Kukri has both by default, so it's often excellent in this kind of build.
+
+## Jules · Hotbox
+
+1 run: 7 wins.
+
+### The core
+
+- **Imu** · Must-have: With enough Slow and Burn scaling, it hits really hard.
+
+### Variant 1: Hot Box
+
+What it adds:
+
+- **Curry** · Engine: A great pick to sit next to the Hot Box, given how fast it fires when you rain down Slow.
+- **Hot Box** · Engine: It boosts adjacent Burn items. With the Heavy enchantment it can charge even faster and give a LOT of Burn.
+
+Flex for this variant:
+
+- **Hot Sauce** · Option: Multicast 3 when placed well; it can deal a lot of Burn next to the Box.
+- **Honeycomb** · Option: 3 Slows fairly quickly; fits the build well.
+- **Honey Jar** · Option: Procs two Slows in exchange for a bit of Heal; very good if you get it.
+- **Boar Roast** · Option: Two Slows, one of them on itself, in exchange for Max Health on each Slow or Burn; fits the build very well.
+- **Pumpkin** · Option: A great source of Slow and scaling.
+- **Marbles** · Option: Slow.
+
+Example board: Honeycomb, Imu, Hot Box, Curry, Honey Jar, Boar Roast, Pumpkin.
 
 ## Vanessa · Shield
 
@@ -189,7 +215,7 @@ Penthouse comes late in the run, but its low cooldown and its passive can make a
 
 What it adds:
 
-- **Penthouse** · Option
+- **Penthouse**
 
 Flex for this variant:
 
@@ -199,7 +225,7 @@ Flex for this variant:
 
 Example board: Penthouse, Wild Boar, Rowboat, Cove.
 
-### Variant 3: The boss
+### Variant 3: The Boss
 
 The Boss adds extra damage, since it takes the damage of your shield converter (Force Field or another one), so its damage can climb fast. This variant has no second Shield item and nothing to boost Cove's Shield during the run, so it needs a Cove that triggers often and/or has a good base Shield.
 
@@ -211,18 +237,13 @@ Example board: The Boss, Cove, Rowboat, Force Field.
 
 ### Flex
 
-Items that can slot into the build in place of another.
+Items that fit the build's idea.
 
 - **Bunker** · Option
-- **Wild Boar** · Key. Replaces: Force Field (Same role, slower.)
 - **Wireless Headset** · Option
-- **Crusher Claw** · Option. Replaces: Force Field
-- **Spiky Shield** · Key. Replaces: Force Field (Same role, slower.)
-- **Pillbuggy** · Key. Replaces: Force Field (Same role, slower.)
 - **Suppressor** · Option
 - **Rowboat** · Option
 - **Seashadow** · Option
-- **Durian** · Key. Replaces: Force Field (Same role, a bit slower, but it can Slow when needed.)
 - **Balcony** · Option
 
 ### How to play it
@@ -285,7 +306,7 @@ Example board: Energy Potion, Torpedo, Power Bank, Port, Battery, Flying Potion,
 
 ### Flex
 
-Items that can slot into the build in place of another.
+Items that fit the build's idea.
 
 - **Holsters** · Option
 
