@@ -2,14 +2,12 @@
 
 The Bazaar builds that adapt to what you find
 
-9 builds, by hero. Each item shows its role in the build and why it is there.
+11 builds, by hero. Each item shows its role in the build and why it is there.
 
 Item roles:
 
-- Must-have: The build doesn't exist without it.
 - Engine: Almost always there, but replaceable.
 - Key: Rare, but when it shows up, you win.
-- Option: An option when there's room left.
 
 ## Pygmalien · Vineyard & Golf
 
@@ -19,8 +17,8 @@ _Stats: Bazaar DB, patch 19.0 (October 8 hotfix)_
 
 ### The core
 
-- **Vineyard** · Must-have
-- **Golf Clubs** · Must-have
+- **Vineyard**
+- **Golf Clubs**
 - **Uwashiwali Bird** · Engine
 - **Bandages** · Engine
 
@@ -40,9 +38,9 @@ Example board: Vineyard, Golf Clubs, Textiles, Uwashiwali Bird, Bandages, Bar of
 
 Items that fit the build's idea.
 
-- **Fountain** · Option
-- **Succulents** · Option
-- **Hogwash** · Option
+- **Fountain**
+- **Succulents**
+- **Hogwash**
 
 ### How to play it
 
@@ -54,8 +52,8 @@ The goal is to get the Vineyard and the Golf Clubs, then find sources of Heal (o
 
 ### The core
 
-- **Money Tree** · Must-have
-- **Money Furnace** · Must-have
+- **Money Tree**
+- **Money Furnace**
 
 ### Variant 1: Property Furnace
 
@@ -71,11 +69,11 @@ What it adds:
 
 Flex for this variant:
 
-- **Uwashiwali Bird** · Option: Excellent with Luxury Tents or Textiles
-- **Oinkment** · Option
-- **Textiles** · Option: Good if you have lots of Heal to charge the Furnace
-- **Abacus** · Option: Good value engine for the Furnace
-- **Bandages** · Option: Fast Heal
+- **Uwashiwali Bird**: Excellent with Luxury Tents or Textiles
+- **Oinkment**
+- **Textiles**: Good if you have lots of Heal to charge the Furnace
+- **Abacus**: Good value engine for the Furnace
+- **Bandages**: Fast Heal
 
 Example board: Money Furnace, Balcony, Oinkment, Uwashiwali Bird, Keychain, Luxury Tents.
 
@@ -89,7 +87,7 @@ The Tree generates Spare Change, and both it and the Furnace scale when you sell
 
 ### The core
 
-- **Private Hot Springs** · Must-have
+- **Private Hot Springs**
 
 ### Variant 1: Ice Luge spam
 
@@ -101,7 +99,7 @@ What it adds:
 
 Flex for this variant:
 
-- **Ice Cream Truck** · Option: Charge loop with the Hot Springs
+- **Ice Cream Truck**: Charge loop with the Hot Springs
 
 Example board: Private Hot Springs, Ice Luge, Ice Cream Truck, Stopwatch, Stopwatch, Icicle.
 
@@ -109,10 +107,10 @@ Example board: Private Hot Springs, Ice Luge, Ice Cream Truck, Stopwatch, Stopwa
 
 Items that fit the build's idea.
 
-- **Badblocker** · Option: With a Freeze enchantment and lots of items over 10 value: high Multicast that charges the Hot Springs well
+- **Badblocker**: With a Freeze enchantment and lots of items over 10 value: high Multicast that charges the Hot Springs well
 - **Stopwatch** · Key: Big board-wide Freeze, good for the Springs
-- **Icicle** · Option: Instant Charge at the start of combat
-- **Steam Ladle** · Option: Benefits a lot from Freeze
+- **Icicle**: Instant Charge at the start of combat
+- **Steam Ladle**: Benefits a lot from Freeze
 
 ### How to play it
 
@@ -127,7 +125,7 @@ Build up Coincure's value in combat (and out of combat if possible) so your weap
 
 ### The core
 
-- **Coincure** · Must-have
+- **Coincure**
 
 ### Variant 1: Toys
 
@@ -143,18 +141,18 @@ What it adds:
 
 Flex for this variant:
 
-- **Model Ship** · Option: Very good with Yo-Yo
-- **Marbles** · Option: Very good now that Coincure also benefits from Slow
-- **Haladie** · Option
-- **Piggles Board** · Option: Charges the Toys off each other for more procs
-- **Premium Green Piggles** · Option: Toy + fast Heal
+- **Model Ship**: Very good with Yo-Yo
+- **Marbles**: Very good now that Coincure also benefits from Slow
+- **Haladie**
+- **Piggles Board**: Charges the Toys off each other for more procs
+- **Premium Green Piggles**: Toy + fast Heal
 
 ### Flex
 
 Items that fit the build's idea.
 
-- **Succulents** · Option
-- **PenFT** · Option
+- **Succulents**
+- **PenFT**
 
 ### How to play it
 
@@ -167,9 +165,11 @@ Kukri has both by default, so it's often excellent in this kind of build.
 
 ### The core
 
-- **Imu** · Must-have: With enough Slow and Burn scaling, it hits really hard.
+- **Imu**: With enough Slow and Burn scaling, it hits really hard.
 
 ### Variant 1: Hot Box
+
+Boite chaude pour boost Imu à fond, et curry qui cast souvent si suffisamment de slow, très fort avec le skill Coma alimentaire, skill pour ajouter du slow recommandé car sinon ça peut être parfois trop lent à scale
 
 What it adds:
 
@@ -178,14 +178,43 @@ What it adds:
 
 Flex for this variant:
 
-- **Hot Sauce** · Option: Multicast 3 when placed well; it can deal a lot of Burn next to the Box.
-- **Honeycomb** · Option: 3 Slows fairly quickly; fits the build well.
-- **Honey Jar** · Option: Procs two Slows in exchange for a bit of Heal; very good if you get it.
-- **Boar Roast** · Option: Two Slows, one of them on itself, in exchange for Max Health on each Slow or Burn; fits the build very well.
-- **Pumpkin** · Option: A great source of Slow and scaling.
-- **Marbles** · Option: Slow.
+- **Hot Sauce**: Multicast 3 when placed well; it can deal a lot of Burn next to the Box.
+- **Honeycomb**: 3 Slows fairly quickly; fits the build well.
+- **Honey Jar**: Procs two Slows in exchange for a bit of Heal; very good if you get it.
+- **Boar Roast**: Two Slows, one of them on itself, in exchange for Max Health on each Slow or Burn; fits the build very well.
+- **Pumpkin**: A great source of Slow and scaling.
+- **Marbles**: Slow.
 
 Example board: Honeycomb, Imu, Hot Box, Curry, Honey Jar, Boar Roast, Pumpkin.
+
+## The Dragons · Archet Violon
+
+Avec Archet Violon on cherche à avoir du haste en continu sur un maximum d'objets en même temps puisqu'il tape en fonction des items hasted au même moment
+
+1 run: 8 wins.
+
+### The core
+
+- **Violin Bow**
+
+### Variant 1: Amp
+
+What it adds:
+
+- **Amp** · Engine: Haste ET double les dégâts du bow, il permet d'arriver assez vite au léthal, je pense que c'et dur tant que Amp n'est pas tier Diamant parce que 8 secondes ça peut être lent, donc chercher des skills ou item qui peuvent le charger et/ou focus son obtention diamant est une bonne idée
+
+Flex for this variant:
+
+- **Vocoder**: Quand on à des items rapide qui dépensent du tempo vocoder fait du haste en continu
+- **Trumpet**: Peut haste jusqu'à 3 items en même temps, assez rapide, bien en combinaison avec vocoder
+- **Sound Engineer**: Parfait avec vocodeur pour spam haste et il donne du crit à l'archet
+- **Turner**: S'auto-alimente, toujours hasté donc nickel
+- **Wireless Headset**
+- **Strobe Grenade**: full haste en un hit, chercher des ammos sur l'objet quand même
+- **Megaphone**: Turner est un ami donc si les deux sont sur le board c'est 2 haste garranti à chaque fois
+- **Energy Potion**: même principe que strobe grenade
+
+Example board: Vocoder, Trumpet, Amp, Violin Bow, Sound Engineer, Turner, Wireless Headset.
 
 ## Vanessa · Shield
 
@@ -195,7 +224,7 @@ A stacked core can lead to shield -> damage builds: a shield > damage conversion
 
 ### The core
 
-- **Cove** · Must-have: Main Shield generator
+- **Cove**: Main Shield generator
 - **Force Field** · Engine: Best shield > damage conversion for this build. If you don't have it: Spiky Shield (Same role, slower.), Wild Boar (Same role, slower.), Crusher Claw, Pillbuggy (Same role, slower.), Durian (Same role, a bit slower, but it can Slow when needed.)
 
 ### Variant 1: Wheel
@@ -219,9 +248,9 @@ What it adds:
 
 Flex for this variant:
 
-- **Abacus** · Option
-- **VIP Pass** · Option
-- **Captain's Wheel** · Option
+- **Abacus**
+- **VIP Pass**
+- **Captain's Wheel**
 
 Example board: Penthouse, Wild Boar, Rowboat, Cove.
 
@@ -239,12 +268,12 @@ Example board: The Boss, Cove, Rowboat, Force Field.
 
 Items that fit the build's idea.
 
-- **Bunker** · Option
-- **Wireless Headset** · Option
-- **Suppressor** · Option
-- **Rowboat** · Option
-- **Seashadow** · Option
-- **Balcony** · Option
+- **Bunker**
+- **Wireless Headset**
+- **Suppressor**
+- **Rowboat**
+- **Seashadow**
+- **Balcony**
 
 ### How to play it
 
@@ -260,7 +289,7 @@ Once you have the Port, you can go for Vanessa's usual Ammo items and try for an
 
 ### The core
 
-- **Port** · Must-have
+- **Port**
 
 ### Variant 1: Ammo weapons
 
@@ -277,9 +306,9 @@ What it adds:
 
 Flex for this variant:
 
-- **Cannonball** · Option
-- **Cannon** · Option
-- **Torpedo** · Option
+- **Cannonball**
+- **Cannon**
+- **Torpedo**
 
 Example board: Dive Weights, Port, Pistol Sword, Shuriken, SMG, Throwing Knives, Nesting Doll.
 
@@ -299,8 +328,8 @@ What it adds:
 
 Flex for this variant:
 
-- **Invulnerability Potion** · Option
-- **Ice Luge** · Option
+- **Invulnerability Potion**
+- **Ice Luge**
 
 Example board: Energy Potion, Torpedo, Power Bank, Port, Battery, Flying Potion, Ni-Kola.
 
@@ -308,7 +337,7 @@ Example board: Energy Potion, Torpedo, Power Bank, Port, Battery, Flying Potion,
 
 Items that fit the build's idea.
 
-- **Holsters** · Option
+- **Holsters**
 
 ### How to play it
 
@@ -323,7 +352,7 @@ Arbalest and lots of Haste!
 
 ### The core
 
-- **Arbalest** · Must-have
+- **Arbalest**
 
 ### Variant 1: Tools captain's quarter
 
@@ -338,9 +367,9 @@ What it adds:
 
 Flex for this variant:
 
-- **Beach Ball** · Option
-- **Rowboat** · Option
-- **Energy Potion** · Option
+- **Beach Ball**
+- **Rowboat**
+- **Energy Potion**
 
 Example board: Astrolabe, Dive Weights, Captain's Quarters, Captain's Wheel, Arbalest.
 
@@ -354,7 +383,7 @@ The Arbalest uses Haste to stack damage. The goal is to find a combination of it
 
 ### The core
 
-- **Jetbike** · Must-have
+- **Jetbike**
 
 ### Variant 1: Double Glider
 
@@ -370,6 +399,31 @@ Example board: Cirrus Feather, Jetbike, Stealth Glider, Stealth Glider.
 ### How to play it
 
 Find the Jetbike, then Flying items, and try to make fast loops by using your Flying items often. Stealth Glider is a good addition because it reduces the cooldown of Flying items.
+
+## Vanessa · Aquatic
+
+1 run: 9 wins.
+
+### The core
+
+- **Piranha** · ×2
+- **Tortuga** · Engine
+
+### Variant 1: Card table
+
+What it adds:
+
+- **Card Table** · Engine
+
+Flex for this variant:
+
+- **Shipwreck**
+- **Narwhal**
+- **Beast Call**
+- **Spiked Collar**
+- **Holsters**
+
+Example board: Spiked Collar, Tortuga, Card Table, Piranha, Piranha, Piranha, Narwhal.
 
 ---
 

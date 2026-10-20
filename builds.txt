@@ -2,14 +2,12 @@
 
 Des builds The Bazaar qui s'adaptent à ce que tu trouves
 
-9 builds, par héros. Chaque objet porte son rôle dans le build et la raison de sa présence.
+11 builds, par héros. Chaque objet porte son rôle dans le build et la raison de sa présence.
 
 Les étiquettes :
 
-- Obligatoire : Le build n'existe pas sans.
 - Moteur : Presque toujours là, mais remplaçable.
 - Key : Rare, mais quand il est là, ça gagne.
-- Option : Une option quand il reste de la place.
 
 ## Pygmalien · Vignoble & Golf
 
@@ -19,8 +17,8 @@ _Stats : Bazaar DB, patch 19.0 (hotfix du 8 octobre)_
 
 ### Le core
 
-- **Vignoble** (Vineyard) · Obligatoire
-- **Clubs de Golf** (Golf Clubs) · Obligatoire
+- **Vignoble** (Vineyard)
+- **Clubs de Golf** (Golf Clubs)
 - **Oiseau Uwashiwali** (Uwashiwali Bird) · Moteur
 - **Bandages** · Moteur
 
@@ -40,9 +38,9 @@ Board type : Vignoble, Clubs de Golf, Textiles, Oiseau Uwashiwali, Bandages, Pai
 
 Des objets qui vont avec l'idée du build.
 
-- **Fontaine** (Fountain) · Option
-- **Plantes Grasses** (Succulents) · Option
-- **Lavomatique** (Hogwash) · Option
+- **Fontaine** (Fountain)
+- **Plantes Grasses** (Succulents)
+- **Lavomatique** (Hogwash)
 
 ### Comment le jouer
 
@@ -54,8 +52,8 @@ Le but est d'aller chercher les vignes et le club de golf, puis de trouver des s
 
 ### Le core
 
-- **Money Tree** · Obligatoire
-- **Money Furnace** · Obligatoire
+- **Money Tree**
+- **Money Furnace**
 
 ### Variante 1 : Fournaise propriété
 
@@ -71,11 +69,11 @@ Elle ajoute :
 
 Peut rentrer dans cette variante :
 
-- **Oiseau Uwashiwali** (Uwashiwali Bird) · Option : Excellent avec tentes de luxe ou textiles
-- **Oinkment** · Option
-- **Textiles** · Option : Bien si beaucoup de heal pour charger la fournaise
-- **Abacus** · Option : Bon moteur de value pour fournaise
-- **Bandages** · Option : Heal rapide
+- **Oiseau Uwashiwali** (Uwashiwali Bird) : Excellent avec tentes de luxe ou textiles
+- **Oinkment**
+- **Textiles** : Bien si beaucoup de heal pour charger la fournaise
+- **Abacus** : Bon moteur de value pour fournaise
+- **Bandages** : Heal rapide
 
 Board type : Money Furnace, Balcony, Oinkment, Oiseau Uwashiwali, Keychain, Tentes de Luxe.
 
@@ -89,7 +87,7 @@ L'arbre génère les pièces, lui-même et la fournaise scalent quand on les ven
 
 ### Le core
 
-- **Private Hot Springs** · Obligatoire
+- **Private Hot Springs**
 
 ### Variante 1 : Ice Luge spam
 
@@ -101,7 +99,7 @@ Elle ajoute :
 
 Peut rentrer dans cette variante :
 
-- **Ice Cream Truck** · Option : Boucle de charge avec les bains
+- **Ice Cream Truck** : Boucle de charge avec les bains
 
 Board type : Private Hot Springs, Ice Luge, Ice Cream Truck, Stopwatch, Stopwatch, Icicle.
 
@@ -109,10 +107,10 @@ Board type : Private Hot Springs, Ice Luge, Ice Cream Truck, Stopwatch, Stopwatc
 
 Des objets qui vont avec l'idée du build.
 
-- **Badblocker** · Option : Si enchantement freeze et beaucoup d'items à +10 de value > multicast élevé qui charge bien sources chaudes
+- **Badblocker** : Si enchantement freeze et beaucoup d'items à +10 de value > multicast élevé qui charge bien sources chaudes
 - **Stopwatch** · Key : Gros freeze général bien pour les springs
-- **Icicle** · Option : Instant charge au début du combat
-- **Steam Ladle** · Option : Profite très bien du freeze
+- **Icicle** : Instant charge au début du combat
+- **Steam Ladle** : Profite très bien du freeze
 
 ### Comment le jouer
 
@@ -127,7 +125,7 @@ Monter la value de Coincure en combat (et hors combat si possible) pour faire pr
 
 ### Le core
 
-- **Coincure** · Obligatoire
+- **Coincure**
 
 ### Variante 1 : Jouets
 
@@ -143,18 +141,18 @@ Elle ajoute :
 
 Peut rentrer dans cette variante :
 
-- **Model Ship** · Option : Très bon avec yo-yo
-- **Marbles** · Option : Très bon depuis que Coincure profite aussi du slow
-- **Haladie** · Option
-- **Piggles Board** · Option : Charge les jouets entre eux pour plus de proc
-- **Premium Green Piggles** · Option : Jouet + heal rapide
+- **Model Ship** : Très bon avec yo-yo
+- **Marbles** : Très bon depuis que Coincure profite aussi du slow
+- **Haladie**
+- **Piggles Board** : Charge les jouets entre eux pour plus de proc
+- **Premium Green Piggles** : Jouet + heal rapide
 
 ### Peut rentrer
 
 Des objets qui vont avec l'idée du build.
 
-- **Plantes Grasses** (Succulents) · Option
-- **PenFT** · Option
+- **Plantes Grasses** (Succulents)
+- **PenFT**
 
 ### Comment le jouer
 
@@ -167,9 +165,11 @@ Kukri possède les deux de base, il est donc souvent excellent dans ce genre de 
 
 ### Le core
 
-- **Imu** · Obligatoire : Avec suffisamment de slow et de scaling sur son burn, elle envoie de la patate
+- **Imu** : Avec suffisamment de slow et de scaling sur son burn, elle envoie de la patate
 
 ### Variante 1 : Boîte chaude
+
+Boite chaude pour boost Imu à fond, et curry qui cast souvent si suffisamment de slow, très fort avec le skill Coma alimentaire, skill pour ajouter du slow recommandé car sinon ça peut être parfois trop lent à scale
 
 Elle ajoute :
 
@@ -178,14 +178,43 @@ Elle ajoute :
 
 Peut rentrer dans cette variante :
 
-- **Hot Sauce** · Option : Multicast 3 si bien placé, peut faire beaucoup de burn si à côté de la Box
-- **Honeycomb** · Option : 3 slow assez rapidement, rentre bien dans le build
-- **Honey Jar** · Option : Proc deux slow en échange d'un peu de heal, très bon si on le choppe
-- **Boar Roast** · Option : Deux slow, dont un sur lui-même, en échange de PV max, à chaque slow ou burn, rentre très bien dans le build
-- **Pumpkin** · Option : Très bonne source de slow/scaling
-- **Marbles** · Option : Du slow
+- **Hot Sauce** : Multicast 3 si bien placé, peut faire beaucoup de burn si à côté de la Box
+- **Honeycomb** : 3 slow assez rapidement, rentre bien dans le build
+- **Honey Jar** : Proc deux slow en échange d'un peu de heal, très bon si on le choppe
+- **Boar Roast** : Deux slow, dont un sur lui-même, en échange de PV max, à chaque slow ou burn, rentre très bien dans le build
+- **Pumpkin** : Très bonne source de slow/scaling
+- **Marbles** : Du slow
 
 Board type : Honeycomb, Imu, Hot Box, Curry, Honey Jar, Boar Roast, Pumpkin.
+
+## The Dragons · Archet Violon
+
+Avec Archet Violon on cherche à avoir du haste en continu sur un maximum d'objets en même temps puisqu'il tape en fonction des items hasted au même moment
+
+1 run : 8 victoires.
+
+### Le core
+
+- **Violin Bow**
+
+### Variante 1 : Amp
+
+Elle ajoute :
+
+- **Amp** · Moteur : Haste ET double les dégâts du bow, il permet d'arriver assez vite au léthal, je pense que c'et dur tant que Amp n'est pas tier Diamant parce que 8 secondes ça peut être lent, donc chercher des skills ou item qui peuvent le charger et/ou focus son obtention diamant est une bonne idée
+
+Peut rentrer dans cette variante :
+
+- **Vocoder** : Quand on à des items rapide qui dépensent du tempo vocoder fait du haste en continu
+- **Trumpet** : Peut haste jusqu'à 3 items en même temps, assez rapide, bien en combinaison avec vocoder
+- **Sound Engineer** : Parfait avec vocodeur pour spam haste et il donne du crit à l'archet
+- **Turner** : S'auto-alimente, toujours hasté donc nickel
+- **Wireless Headset**
+- **Strobe Grenade** : full haste en un hit, chercher des ammos sur l'objet quand même
+- **Megaphone** : Turner est un ami donc si les deux sont sur le board c'est 2 haste garranti à chaque fois
+- **Energy Potion** : même principe que strobe grenade
+
+Board type : Vocoder, Trumpet, Amp, Violin Bow, Sound Engineer, Turner, Wireless Headset.
 
 ## Vanessa · Shield
 
@@ -195,7 +224,7 @@ Avoir un core stacké peut donner des builds shield -> damage, un item de conver
 
 ### Le core
 
-- **Cove** · Obligatoire : Générateur de shield principal
+- **Cove** : Générateur de shield principal
 - **Force Field** · Moteur : Meilleure conversion shield>damage pour ce build. Si tu ne l'as pas : Spiky Shield (même fonction, plus lent), Wild Boar (même fonction, plus lent), Crusher Claw, Pillbuggy (même fonction, plus lent), Durian (même fonction, un peu plus lent mais peut slow au besoin)
 
 ### Variante 1 : Wheel
@@ -219,9 +248,9 @@ Elle ajoute :
 
 Peut rentrer dans cette variante :
 
-- **Abacus** · Option
-- **VIP Pass** · Option
-- **Captain's Wheel** · Option
+- **Abacus**
+- **VIP Pass**
+- **Captain's Wheel**
 
 Board type : Penthouse, Wild Boar, Rowboat, Cove.
 
@@ -239,12 +268,12 @@ Board type : The Boss, Cove, Rowboat, Force Field.
 
 Des objets qui vont avec l'idée du build.
 
-- **Bunker** · Option
-- **Wireless Headset** · Option
-- **Suppressor** · Option
-- **Rowboat** · Option
-- **Seashadow** · Option
-- **Balcony** · Option
+- **Bunker**
+- **Wireless Headset**
+- **Suppressor**
+- **Rowboat**
+- **Seashadow**
+- **Balcony**
 
 ### Comment le jouer
 
@@ -260,7 +289,7 @@ Une fois le port obtenu, on peut aller chercher les items ammo classiques de Van
 
 ### Le core
 
-- **Port** · Obligatoire
+- **Port**
 
 ### Variante 1 : Ammo weapons
 
@@ -277,9 +306,9 @@ Elle ajoute :
 
 Peut rentrer dans cette variante :
 
-- **Cannonball** · Option
-- **Cannon** · Option
-- **Torpedo** · Option
+- **Cannonball**
+- **Cannon**
+- **Torpedo**
 
 Board type : Dive Weights, Port, Pistol Sword, Shuriken, SMG, Throwing Knives, Nesting Doll.
 
@@ -299,8 +328,8 @@ Elle ajoute :
 
 Peut rentrer dans cette variante :
 
-- **Invulnerability Potion** · Option
-- **Ice Luge** · Option
+- **Invulnerability Potion**
+- **Ice Luge**
 
 Board type : Energy Potion, Torpedo, Power Bank, Port, Battery, Flying Potion, Ni-Kola.
 
@@ -308,7 +337,7 @@ Board type : Energy Potion, Torpedo, Power Bank, Port, Battery, Flying Potion, N
 
 Des objets qui vont avec l'idée du build.
 
-- **Holsters** · Option
+- **Holsters**
 
 ### Comment le jouer
 
@@ -323,7 +352,7 @@ Arbalète et du haste !
 
 ### Le core
 
-- **Arbalest** · Obligatoire
+- **Arbalest**
 
 ### Variante 1 : Tools captain's quarter
 
@@ -338,9 +367,9 @@ Elle ajoute :
 
 Peut rentrer dans cette variante :
 
-- **Beach Ball** · Option
-- **Rowboat** · Option
-- **Energy Potion** · Option
+- **Beach Ball**
+- **Rowboat**
+- **Energy Potion**
 
 Board type : Astrolabe, Dive Weights, Captain's Quarters, Captain's Wheel, Arbalest.
 
@@ -354,7 +383,7 @@ L'arbalète profite du haste pour stack des dégâts, l'objectif est de trouver 
 
 ### Le core
 
-- **Jetbike** · Obligatoire
+- **Jetbike**
 
 ### Variante 1 : Double Glider
 
@@ -370,6 +399,31 @@ Board type : Cirrus Feather, Jetbike, Stealth Glider, Stealth Glider.
 ### Comment le jouer
 
 Trouver Jetbike puis des items volants, et essayer de faire des boucles rapides en jouant souvent les items en vol, Stealth Glider est une bonne addition car il réduit les cd des items volants.
+
+## Vanessa · Aquatic
+
+1 run : 9 victoires.
+
+### Le core
+
+- **Piranha** · ×2
+- **Tortuga** · Moteur
+
+### Variante 1 : Card table
+
+Elle ajoute :
+
+- **Card Table** · Moteur
+
+Peut rentrer dans cette variante :
+
+- **Shipwreck**
+- **Narwhal**
+- **Beast Call**
+- **Spiked Collar**
+- **Holsters**
+
+Board type : Spiked Collar, Tortuga, Card Table, Piranha, Piranha, Piranha, Narwhal.
 
 ---
 
