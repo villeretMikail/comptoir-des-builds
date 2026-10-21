@@ -2,12 +2,13 @@
 
 Des builds The Bazaar qui s'adaptent à ce que tu trouves
 
-11 builds, par héros. Chaque objet porte son rôle dans le build et la raison de sa présence.
+13 builds, par héros. Chaque objet porte son rôle dans le build et la raison de sa présence.
 
 Les étiquettes :
 
 - Moteur : Presque toujours là, mais remplaçable.
 - Key : Rare, mais quand il est là, ça gagne.
+- Why not : À sa place dans le build MAIS peut trouver mieux/ dépendant du contexte
 
 ## Pygmalien · Vignoble & Golf
 
@@ -215,6 +216,58 @@ Peut rentrer dans cette variante :
 - **Energy Potion** : même principe que strobe grenade
 
 Board type : Vocoder, Trumpet, Amp, Violin Bow, Sound Engineer, Turner, Wireless Headset.
+
+## The Dragons · Nouveau build
+
+1 run : 9 victoires.
+
+### Peut rentrer
+
+Des objets qui vont avec l'idée du build.
+
+- **Energy Shot**
+- **Scorch**
+- **Dragonheart Pendant**
+- **Dragon's Breath Mints**
+- **Wings**
+- **Patch**
+- **Superfan**
+
+## The Dragons · Orgue
+
+1 run : 10 victoires.
+
+### Le core
+
+- **Pipe Organ**
+
+### Variante 1 : Double pipe organ
+
+Avec deux Orgues, chercher des items rapides de type tempo ou instrument. 
+L'effet des items sur le terrain n'est qu'un bonus puisqu'une fois la machine lancée, tout s'auto-alimente, mais des objets comme les Baguettes Rythmiques sont excellents puisqu'eux même se chargent de la même manière et alimentent bien la boucle
+
+Peut rentrer dans cette variante :
+
+- **Rhythm Sticks**
+- **Harmonica**
+- **Bubble Gum**
+- **Disco Drone** · Why not
+- **Maracas**
+- **Sound Engineer**
+- **Bongos**
+- **Hef Chibi** · Why not
+- **Dragon Lighter**
+- **Star Projector**
+- **Mini Keyboard** · Why not
+- **Visor**
+- **Spray Can** · Why not
+
+Board type : Pipe Organ, Sound Engineer, Pipe Organ, Bubble Gum, Harmonica, Rhythm Sticks.
+
+### Comment le jouer
+
+La compo commence par une compo Orgue classique ( dispo prochainement quand j'aurai fait la version) mais une fois la deuxième orgue débloquée, on peut se permettre de lâcher tous les carrys secondaires et les items un peu lents, on garde des instruments ou des objets de tempo rapides qui vont lancer facilement la boucle et permettre de burn à l'infini. 
+Chercher beaucoup de notes à ajouter sur le plateau pour réduire passivement le cd des Orgues est nécessaire pour une boucle rapide et auto-suffisante, je cherche personnellement des enchantements qui correspondent aux notes que j'ai sur mon board car la réduction de CD des Orgues est mon objectif principal
 
 ## Vanessa · Shield
 
