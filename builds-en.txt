@@ -235,16 +235,40 @@ Items that fit the build's idea.
 
 ## The Dragons · Orgue
 
-1 run: 10 wins.
+2 runs, 9.5 wins on average.
 
 ### The core
 
 - **Pipe Organ**
 
-### Variant 1: Double pipe organ
+### Variant 1: Keytar
+
+Keytar accompagnée de petits instruments rapides va être un carry secondaire (voir principal parfois) en plus de haste la quasi totalité ou la totalité du board en permanence, les baguettes ryhtmiques et les bongos vont bien avec build pour ajouter une source de dégâts différente, Ignitar est une source de burn supplémentaire multicast qui peut aider Keytar. 
+Avec Keytar, on a encore plus de favoriser les items de type instrument mais des exceptions peuvent se faire quand ça sert le build
+
+What it adds:
+
+- **Keytar** · Engine
+
+Flex for this variant:
+
+- **Bongos**
+- **Dragon Lighter** · Why not: Pas un instrument, ni un objet de tempo, mais le rajout de burn peut être utile
+- **Sound Engineer**
+- **Bubble Gum**
+- **Maracas**
+- **Rhythm Sticks**
+- **Harmonica**
+- **Ignitar**
+
+Example board: Pipe Organ, Sound Engineer, Rhythm Sticks, Keytar, Harmonica, Bongos, Bongos.
+
+### Variant 2: Double pipe organ
 
 Avec deux Orgues, chercher des items rapides de type tempo ou instrument. 
 L'effet des items sur le terrain n'est qu'un bonus puisqu'une fois la machine lancée, tout s'auto-alimente, mais des objets comme les Baguettes Rythmiques sont excellents puisqu'eux même se chargent de la même manière et alimentent bien la boucle
+La compo commence par une compo Orgue classique mais une fois la deuxième orgue débloquée, on peut se permettre de lâcher tous les carrys secondaires et les items un peu lents, on garde des instruments ou des objets de tempo rapides qui vont lancer facilement la boucle et permettre de burn à l'infini. 
+Chercher beaucoup de notes à ajouter sur le plateau pour réduire passivement le cd des Orgues est nécessaire pour une boucle rapide et auto-suffisante, je cherche personnellement des enchantements qui correspondent aux notes que j'ai sur mon board car la réduction de CD des Orgues est mon objectif principal
 
 Flex for this variant:
 
@@ -264,10 +288,11 @@ Flex for this variant:
 
 Example board: Pipe Organ, Sound Engineer, Pipe Organ, Bubble Gum, Harmonica, Rhythm Sticks.
 
-### How to play it
+### Flex
 
-La compo commence par une compo Orgue classique ( dispo prochainement quand j'aurai fait la version) mais une fois la deuxième orgue débloquée, on peut se permettre de lâcher tous les carrys secondaires et les items un peu lents, on garde des instruments ou des objets de tempo rapides qui vont lancer facilement la boucle et permettre de burn à l'infini. 
-Chercher beaucoup de notes à ajouter sur le plateau pour réduire passivement le cd des Orgues est nécessaire pour une boucle rapide et auto-suffisante, je cherche personnellement des enchantements qui correspondent aux notes que j'ai sur mon board car la réduction de CD des Orgues est mon objectif principal
+What fits the build's idea, with a few examples.
+
+- **Des instruments rapides ou des objets de tempo, des skills de burn de haste et les skills de type Si mineur La majeur etc...**
 
 ## Vanessa · Shield
 
