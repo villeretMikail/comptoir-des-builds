@@ -2188,18 +2188,29 @@ function homeView(){
 function rankedBuilds(){
   return S.builds.map((b, i) => ({b, i, st: buildStats(b)})).sort((x, y) => ((y.st ? y.st.avg : -1) - (x.st ? x.st.avg : -1)) || ((y.st ? y.st.n : 0) - (x.st ? x.st.n : 0)) || x.i - y.i).map(x => x.b);
 }
-/* la vitrine du comptoir : un objet phare par build, posés sur une planche, chacun mène à son build */
+/* la vitrine du comptoir : des objets tirés au hasard parmi les builds de la page, un par build, chacun mène à son build.
+   Nouveau tirage à chaque visite ; la graine est fixée au chargement, pour que la planche ne bouge pas pendant qu'on tape. */
+const FAN_SEED = Math.floor(Math.random() * 4294967296) >>> 0;
+function seeded(seed){
+  let a = seed >>> 0;
+  return () => { a = (a + 0x6D2B79F5) >>> 0; let t = a; t = Math.imul(t ^ (t >>> 15), t | 1); t ^= t + Math.imul(t ^ (t >>> 7), t | 61); return ((t ^ (t >>> 14)) >>> 0) / 4294967296; };
+}
+function shuffled(list, rnd){
+  const a = list.slice();
+  for (let i = a.length - 1; i > 0; i--) { const j = Math.floor(rnd() * (i + 1)); const x = a[i]; a[i] = a[j]; a[j] = x; }
+  return a;
+}
 function homeFan(){
   /* la planche a une largeur fixe : en hauteurs de carte, 3 au plus (petit = 0,5, moyen = 1, chevauchement 0,2) */
+  const rnd = seeded(FAN_SEED);
   const seen = new Set(), picks = [];
   let w = 0;
-  rankedBuilds().forEach(b => {
-    if (picks.length >= 5 || !shownHeroes().some(h => h.id === b.hero)) return;
-    const o = showItems(b).find(x => hasPicture(x) && x.size < 3 && !seen.has(x.id));
+  shuffled(S.builds.filter(b => shownHeroes().some(h => h.id === b.hero)), rnd).forEach(b => {
+    if (picks.length >= 5) return;
+    const o = shuffled(showItems(b).filter(x => hasPicture(x) && x.size < 3 && !seen.has(x.id)), rnd)
+      .find(x => w + (x.size === 1 ? 0.5 : 1) - (picks.length ? 0.2 : 0) <= 3);
     if (!o) return;
-    const add = (o.size === 1 ? 0.5 : 1) - (picks.length ? 0.2 : 0);
-    if (w + add > 3) return;
-    seen.add(o.id); picks.push({b, o}); w += add;
+    seen.add(o.id); picks.push({b, o}); w += (o.size === 1 ? 0.5 : 1) - (picks.length > 1 ? 0.2 : 0);
   });
   if (picks.length < 3) return '';
   const mid = (picks.length - 1) / 2;
