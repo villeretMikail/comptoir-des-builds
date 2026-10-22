@@ -2,7 +2,11 @@
 
 The Bazaar builds that adapt to what you find
 
-13 builds, by hero. Each item shows its role in the build and why it is there.
+14 builds, by hero. Each item shows its role in the build and why it is there.
+
+These items are examples: no two games are alike, and endless variations are possible.
+
+Up to date for The Bazaar patch 19.2.
 
 Item roles:
 
@@ -15,6 +19,8 @@ Item roles:
 Vineyard and Golf Clubs are must-haves. The Bird and Bandages are almost always there but can be replaced. Bar of Soap, Textiles and Luxury Tents win games when they show up.
 
 _Stats: Bazaar DB, patch 19.0 (October 8 hotfix)_
+
+_Tested on patch 19.0_
 
 ### The core
 
@@ -48,6 +54,8 @@ Items that fit the build's idea.
 The goal is to get the Vineyard and the Golf Clubs, then find sources of Heal (or Slow) that scale the Golf Clubs. The Lavomatique turns every Heal into a Slow and can potentially fit into any variant.
 
 ## Pygmalien · Money Tree & Money Furnace
+
+_Tested on patch 19.2_
 
 1 run: 10 wins.
 
@@ -83,6 +91,8 @@ Example board: Money Furnace, Balcony, Oinkment, Uwashiwali Bird, Keychain, Luxu
 The Tree generates Spare Change, and both it and the Furnace scale when you sell it. Raise your items' value by every means: items that give value are good picks, and generating value with Truffles on top of the coins can be a good idea, but watch your stash space. Anything that makes the Furnace fire faster is very useful once it's well stacked.
 
 ## Pygmalien · Hot Springs
+
+_Tested on patch 19.2_
 
 1 run: 8 wins.
 
@@ -122,6 +132,8 @@ Freeze items that target many items are very good with Hot Springs.
 
 Build up Coincure's value in combat (and out of combat if possible) so your weapons and Heal items get big bonuses. Having fast Heal and Damage items usually pays off.
 
+_Tested on patch 19.2_
+
 1 run: 10 wins.
 
 ### The core
@@ -160,7 +172,9 @@ Items that fit the build's idea.
 Look for fast Heal and Damage items; items that do both are excellent. A Heal enchantment on a Damage item (or the other way around) adds a lot of value. Items that add flat value can also fit in the build.
 Kukri has both by default, so it's often excellent in this kind of build.
 
-## Jules · Hotbox
+## Jules · Imu
+
+_Tested on patch 19.2_
 
 1 run: 7 wins.
 
@@ -188,9 +202,43 @@ Flex for this variant:
 
 Example board: Honeycomb, Imu, Hot Box, Curry, Honey Jar, Boar Roast, Pumpkin.
 
+## Jules · Étagère à épices et SEL
+
+_Tested on patch 19.2_
+
+1 run: 10 wins.
+
+### The core
+
+- **Salt**
+- **Spice Rack**
+
+### Complete with: one item from each group
+
+- **Pizza** · my favorite, Engine: Pizza et ses remplaçants se valent tous, dépendant du reste de la partie. Just as good: Tea Siphon (On perd le multicast mais c'est très rapide si heated), Dragon Steak (On perd le multicast mais selon la partie le burn du dragon steak peut être hautement supérieur), Azakan Stew (Plus demandant pour avoir le multicast mais il shield en plus)
+- **Basket** · my favorite, Engine: Low cd multi-hit, bonnes chances de crit de base mais demande de compléter ses quêtes. Just as good: Birthday Cake (Arrive très vite à 100 % de chances de crit, très valable imo)
+
+### Flex
+
+Items that fit the build's idea.
+
+- **Tea Siphon**: Burn rapide qui colle bien
+- **Zarlic**: Burn et haste, profite beaucoup du crit des autres items
+- **Void Shield** · Key: Si on crit beaucoup il met mass shield et on augmente BEAUCOUP son burn, pour un burn passif c'est souvent très fort.  Comp dépendant mais franchement ça rentre souvent
+- **Hot Sauce**: Burn et multicast, pas besoin d'expliquer
+- **Serving Platter**: peut faire des boucles infinies, nécessite des chances de crit déjà hautes
+- **Caviar**: crit passif > cool
+- **Eggs**: Surtout quand l'item est or ou diamant, il tape souvent donc peut faire souvent des crit et donc faire scale souvent
+- **Black Pepper** · Why not: de la charge et du burn ça peut vite être sympa
+- **Corkscrew**: beaucoup d'items importants sont de taille medium, corkscrew peut aider à cast une fois gratos
+
+Example board: Void Shield, Salt, Tea Siphon, Spice Rack, Birthday Cake, Zarlic.
+
 ## The Dragons · Archet Violon
 
 Avec Archet Violon on cherche à avoir du haste en continu sur un maximum d'objets en même temps puisqu'il tape en fonction des items hasted au même moment
+
+_Tested on patch 19.2_
 
 1 run: 8 wins.
 
@@ -219,6 +267,8 @@ Example board: Vocoder, Trumpet, Amp, Violin Bow, Sound Engineer, Turner, Wirele
 
 ## The Dragons · Nouveau build
 
+_Tested on patch 19.2_
+
 1 run: 9 wins.
 
 ### Flex
@@ -234,6 +284,8 @@ Items that fit the build's idea.
 - **Superfan**
 
 ## The Dragons · Orgue
+
+_Tested on patch 19.2_
 
 2 runs, 9.5 wins on average.
 
@@ -270,6 +322,10 @@ L'effet des items sur le terrain n'est qu'un bonus puisqu'une fois la machine la
 La compo commence par une compo Orgue classique mais une fois la deuxième orgue débloquée, on peut se permettre de lâcher tous les carrys secondaires et les items un peu lents, on garde des instruments ou des objets de tempo rapides qui vont lancer facilement la boucle et permettre de burn à l'infini. 
 Chercher beaucoup de notes à ajouter sur le plateau pour réduire passivement le cd des Orgues est nécessaire pour une boucle rapide et auto-suffisante, je cherche personnellement des enchantements qui correspondent aux notes que j'ai sur mon board car la réduction de CD des Orgues est mon objectif principal
 
+What it adds:
+
+- **Pipe Organ** · +1 on top of the core
+
 Flex for this variant:
 
 - **Rhythm Sticks**
@@ -288,7 +344,7 @@ Flex for this variant:
 
 Example board: Pipe Organ, Sound Engineer, Pipe Organ, Bubble Gum, Harmonica, Rhythm Sticks.
 
-### Flex
+### Flex for every variant
 
 What fits the build's idea, with a few examples.
 
@@ -297,6 +353,8 @@ What fits the build's idea, with a few examples.
 ## Vanessa · Shield
 
 A stacked core can lead to shield -> damage builds: a shield > damage conversion item, or an offensive enchantment on Cove, provides the transition.
+
+_Tested on patch 19.2_
 
 1 run: 10 wins.
 
@@ -342,7 +400,7 @@ What it adds:
 
 Example board: The Boss, Cove, Rowboat, Force Field.
 
-### Flex
+### Flex for every variant
 
 Items that fit the build's idea.
 
@@ -362,6 +420,8 @@ Haste, Charge or Crit Chance items fit the build very well, and a second Shield 
 ## Vanessa · Port ammo
 
 Once you have the Port, you can go for Vanessa's usual Ammo items and try for an Ammo-spam run that hits hard.
+
+_Tested on patch 19.2_
 
 1 run: 10 wins.
 
@@ -411,7 +471,7 @@ Flex for this variant:
 
 Example board: Energy Potion, Torpedo, Power Bank, Port, Battery, Flying Potion, Ni-Kola.
 
-### Flex
+### Flex for every variant
 
 Items that fit the build's idea.
 
@@ -425,6 +485,8 @@ You can't always find Ammo items that Haste or Charge, so fast Ammo items can do
 ## Vanessa · Arbalest
 
 Arbalest and lots of Haste!
+
+_Tested on patch 19.2_
 
 1 run: 10 wins.
 
@@ -457,6 +519,8 @@ The Arbalest uses Haste to stack damage. The goal is to find a combination of it
 
 ## Vanessa · Jetbike
 
+_Tested on patch 19.2_
+
 1 run: 6 wins.
 
 ### The core
@@ -479,6 +543,8 @@ Example board: Cirrus Feather, Jetbike, Stealth Glider, Stealth Glider.
 Find the Jetbike, then Flying items, and try to make fast loops by using your Flying items often. Stealth Glider is a good addition because it reduces the cooldown of Flying items.
 
 ## Vanessa · Aquatic
+
+_Tested on patch 19.2_
 
 1 run: 9 wins.
 

@@ -2,7 +2,11 @@
 
 Des builds The Bazaar qui s'adaptent à ce que tu trouves
 
-13 builds, par héros. Chaque objet porte son rôle dans le build et la raison de sa présence.
+14 builds, par héros. Chaque objet porte son rôle dans le build et la raison de sa présence.
+
+Ces objets sont des exemples : aucune game ne se ressemble, et des infinités de variations peuvent exister.
+
+À jour pour le patch 19.2 de The Bazaar.
 
 Les étiquettes :
 
@@ -15,6 +19,8 @@ Les étiquettes :
 Le Vignoble et les Clubs de Golf sont obligatoires. L'Oiseau et les Bandages sont presque toujours là mais se remplacent. Pain de Savon, Textiles et Tentes de Luxe font gagner quand ils tombent.
 
 _Stats : Bazaar DB, patch 19.0 (hotfix du 8 octobre)_
+
+_Testé au patch 19.0_
 
 ### Le core
 
@@ -48,6 +54,8 @@ Des objets qui vont avec l'idée du build.
 Le but est d'aller chercher les vignes et le club de golf, puis de trouver des sources de heal (ou de slow) qui vont faire scale club de golf, le lavomatique convertit chaque heal en slow et peut potentiellement rentrer dans toute variante.
 
 ## Pygmalien · Arbre et fournaise à monnaie
+
+_Testé au patch 19.2_
 
 1 run : 10 victoires.
 
@@ -83,6 +91,8 @@ Board type : Money Furnace, Balcony, Oinkment, Oiseau Uwashiwali, Keychain, Tent
 L'arbre génère les pièces, lui-même et la fournaise scalent quand on les vend, on cherche à augmenter la value des items par tous les moyens, les items qui donnent de la value sont bons à prendre, et générer de la value avec les truffes en plus des pièces peut être une bonne idée mais attention à la place dans le coffre, tout ce qui fait jouer plus vite la fournaise est très utile quand elle est bien stackée.
 
 ## Pygmalien · Sources chaudes
+
+_Testé au patch 19.2_
 
 1 run : 8 victoires.
 
@@ -122,6 +132,8 @@ Les items freeze qui target beaucoup d'items sont très bons avec hot spring.
 
 Monter la value de Coincure en combat (et hors combat si possible) pour faire profiter aux armes et aux items de heal de gros bonus, avoir des items de heal et de dégâts rapides est souvent rentable.
 
+_Testé au patch 19.2_
+
 1 run : 10 victoires.
 
 ### Le core
@@ -160,7 +172,9 @@ Des objets qui vont avec l'idée du build.
 Chercher des items de heal et de dégâts rapides, les items qui font les deux sont excellents, enchant heal sur item damage (ou inversement) apporte beaucoup de value, des items qui rajoutent de la value flat peuvent rentrer dans le build également.
 Kukri possède les deux de base, il est donc souvent excellent dans ce genre de build.
 
-## Jules · Hotbox
+## Jules · Imu
+
+_Testé au patch 19.2_
 
 1 run : 7 victoires.
 
@@ -188,9 +202,43 @@ Peut rentrer dans cette variante :
 
 Board type : Honeycomb, Imu, Hot Box, Curry, Honey Jar, Boar Roast, Pumpkin.
 
+## Jules · Étagère à épices et SEL
+
+_Testé au patch 19.2_
+
+1 run : 10 victoires.
+
+### Le core
+
+- **Salt**
+- **Spice Rack**
+
+### À compléter : un objet de chaque groupe, au choix
+
+- **Pizza** · mon préféré, Moteur : Pizza et ses remplaçants se valent tous, dépendant du reste de la partie. Au choix, aussi bons : Tea Siphon (On perd le multicast mais c'est très rapide si heated), Dragon Steak (On perd le multicast mais selon la partie le burn du dragon steak peut être hautement supérieur), Azakan Stew (Plus demandant pour avoir le multicast mais il shield en plus)
+- **Basket** · mon préféré, Moteur : Low cd multi-hit, bonnes chances de crit de base mais demande de compléter ses quêtes. Au choix, aussi bons : Birthday Cake (Arrive très vite à 100 % de chances de crit, très valable imo)
+
+### Peut rentrer
+
+Des objets qui vont avec l'idée du build.
+
+- **Tea Siphon** : Burn rapide qui colle bien
+- **Zarlic** : Burn et haste, profite beaucoup du crit des autres items
+- **Void Shield** · Key : Si on crit beaucoup il met mass shield et on augmente BEAUCOUP son burn, pour un burn passif c'est souvent très fort.  Comp dépendant mais franchement ça rentre souvent
+- **Hot Sauce** : Burn et multicast, pas besoin d'expliquer
+- **Serving Platter** : peut faire des boucles infinies, nécessite des chances de crit déjà hautes
+- **Caviar** : crit passif > cool
+- **Eggs** : Surtout quand l'item est or ou diamant, il tape souvent donc peut faire souvent des crit et donc faire scale souvent
+- **Black Pepper** · Why not : de la charge et du burn ça peut vite être sympa
+- **Corkscrew** : beaucoup d'items importants sont de taille medium, corkscrew peut aider à cast une fois gratos
+
+Board type : Void Shield, Salt, Tea Siphon, Spice Rack, Birthday Cake, Zarlic.
+
 ## The Dragons · Archet Violon
 
 Avec Archet Violon on cherche à avoir du haste en continu sur un maximum d'objets en même temps puisqu'il tape en fonction des items hasted au même moment
+
+_Testé au patch 19.2_
 
 1 run : 8 victoires.
 
@@ -219,6 +267,8 @@ Board type : Vocoder, Trumpet, Amp, Violin Bow, Sound Engineer, Turner, Wireless
 
 ## The Dragons · Nouveau build
 
+_Testé au patch 19.2_
+
 1 run : 9 victoires.
 
 ### Peut rentrer
@@ -234,6 +284,8 @@ Des objets qui vont avec l'idée du build.
 - **Superfan**
 
 ## The Dragons · Orgue
+
+_Testé au patch 19.2_
 
 2 runs, 9,5 victoires en moyenne.
 
@@ -270,6 +322,10 @@ L'effet des items sur le terrain n'est qu'un bonus puisqu'une fois la machine la
 La compo commence par une compo Orgue classique mais une fois la deuxième orgue débloquée, on peut se permettre de lâcher tous les carrys secondaires et les items un peu lents, on garde des instruments ou des objets de tempo rapides qui vont lancer facilement la boucle et permettre de burn à l'infini. 
 Chercher beaucoup de notes à ajouter sur le plateau pour réduire passivement le cd des Orgues est nécessaire pour une boucle rapide et auto-suffisante, je cherche personnellement des enchantements qui correspondent aux notes que j'ai sur mon board car la réduction de CD des Orgues est mon objectif principal
 
+Elle ajoute :
+
+- **Pipe Organ** · +1 en plus du core
+
 Peut rentrer dans cette variante :
 
 - **Rhythm Sticks**
@@ -288,7 +344,7 @@ Peut rentrer dans cette variante :
 
 Board type : Pipe Organ, Sound Engineer, Pipe Organ, Bubble Gum, Harmonica, Rhythm Sticks.
 
-### Peut rentrer
+### Peut rentrer dans toutes les variantes
 
 Ce qui va avec l'idée du build, avec quelques exemples.
 
@@ -297,6 +353,8 @@ Ce qui va avec l'idée du build, avec quelques exemples.
 ## Vanessa · Shield
 
 Avoir un core stacké peut donner des builds shield -> damage, un item de conversion shield > damage, ou un enchantement offensif sur Cove offre la transition.
+
+_Testé au patch 19.2_
 
 1 run : 10 victoires.
 
@@ -342,7 +400,7 @@ Elle ajoute :
 
 Board type : The Boss, Cove, Rowboat, Force Field.
 
-### Peut rentrer
+### Peut rentrer dans toutes les variantes
 
 Des objets qui vont avec l'idée du build.
 
@@ -362,6 +420,8 @@ Les items de haste, charge ou chances de crit rentrent très bien dans le build,
 ## Vanessa · Port ammo
 
 Une fois le port obtenu, on peut aller chercher les items ammo classiques de Vanessa pour tenter une game spam ammo qui tabasse.
+
+_Testé au patch 19.2_
 
 1 run : 10 victoires.
 
@@ -411,7 +471,7 @@ Peut rentrer dans cette variante :
 
 Board type : Energy Potion, Torpedo, Power Bank, Port, Battery, Flying Potion, Ni-Kola.
 
-### Peut rentrer
+### Peut rentrer dans toutes les variantes
 
 Des objets qui vont avec l'idée du build.
 
@@ -425,6 +485,8 @@ Ce n'est pas toujours possible de récupérer des items ammo de haste ou de char
 ## Vanessa · Arbalète
 
 Arbalète et du haste !
+
+_Testé au patch 19.2_
 
 1 run : 10 victoires.
 
@@ -457,6 +519,8 @@ L'arbalète profite du haste pour stack des dégâts, l'objectif est de trouver 
 
 ## Vanessa · MOTO-JET
 
+_Testé au patch 19.2_
+
 1 run : 6 victoires.
 
 ### Le core
@@ -479,6 +543,8 @@ Board type : Cirrus Feather, Jetbike, Stealth Glider, Stealth Glider.
 Trouver Jetbike puis des items volants, et essayer de faire des boucles rapides en jouant souvent les items en vol, Stealth Glider est une bonne addition car il réduit les cd des items volants.
 
 ## Vanessa · Aquatic
+
+_Testé au patch 19.2_
 
 1 run : 9 victoires.
 
