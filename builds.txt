@@ -2,11 +2,11 @@
 
 Des builds The Bazaar qui s'adaptent à ce que tu trouves
 
-14 builds, par héros. Chaque objet porte son rôle dans le build et la raison de sa présence.
+16 builds, par héros. Chaque objet porte son rôle dans le build et la raison de sa présence.
 
 Ces objets sont des exemples : aucune game ne se ressemble, et des infinités de variations peuvent exister.
 
-À jour pour le patch 19.2 de The Bazaar.
+À jour pour le patch 19.3 de The Bazaar.
 
 Les étiquettes :
 
@@ -52,6 +52,8 @@ Des objets qui vont avec l'idée du build.
 ### Comment le jouer
 
 Le but est d'aller chercher les vignes et le club de golf, puis de trouver des sources de heal (ou de slow) qui vont faire scale club de golf, le lavomatique convertit chaque heal en slow et peut potentiellement rentrer dans toute variante.
+
+Nerf depuis le patch 19.3 : à retester.
 
 ## Pygmalien · Arbre et fournaise à monnaie
 
@@ -233,6 +235,61 @@ Des objets qui vont avec l'idée du build.
 - **Corkscrew** : beaucoup d'items importants sont de taille medium, corkscrew peut aider à cast une fois gratos
 
 Board type : Void Shield, Salt, Tea Siphon, Spice Rack, Birthday Cake, Zarlic.
+
+## Jules · Hachoir à Viande
+
+_Testé au patch 19.2_
+
+1 run : 10 victoires.
+
+### Le core
+
+- **Meat Grinder**
+
+### Variante 1 : Classic
+
+Elle ajoute :
+
+- **Pizza** · Moteur. Si tu ne l'as pas : Azakan Stew (ça reste un objet de multicast qui profite au Hachoir)
+- **Butter** · Moteur. Si tu ne l'as pas : Azakan Stew (Comme pour pizza, le beurre se fait remlacer par un autre item qui cast bien si on l'a)
+
+Elle cherche : Des multicasts à côté de l'item central, des skills des damage pour taper fort, et de quoi accélérer le board
+
+Peut rentrer dans cette variante :
+
+- **Banu Leaves** : Joue relativement souvent, chose que l'on cherche avec ce build
+- **Black Pepper** : Accélère un des items clé
+- **Pancakes** : multicast qui peut bien aller avec Le Hachoir à viande
+- **Scorchpepper** · Why not : Si besoin d'un emplacement chauffé en plus
+- **Eggs** · Why not
+- **Carving Fork** : donne des damage au Hachoir
+
+Board type : Banu Leaves, Black Pepper, Butter, Meat Grinder, Pizza, Scorchpepper, Pancakes, Eggs.
+
+## Jules · Gingerbread
+
+_Testé au patch 19.3_
+
+1 run : 7 victoires.
+
+### Le core
+
+- **Gingerbread House**
+
+### Variante 1 : FRIGO
+
+Elle ajoute :
+
+- **Refrigerator**
+- **Cake Batter**
+
+Peut rentrer dans cette variante :
+
+- **Eggs**
+- **Grater**
+- **Mouse Trap**
+
+Board type : Gingerbread House, Eggs, Grater, Cake Batter, Refrigerator, Mouse Trap.
 
 ## The Dragons · Archet Violon
 

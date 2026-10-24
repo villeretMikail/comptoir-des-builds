@@ -2,11 +2,11 @@
 
 The Bazaar builds that adapt to what you find
 
-14 builds, by hero. Each item shows its role in the build and why it is there.
+16 builds, by hero. Each item shows its role in the build and why it is there.
 
 These items are examples: no two games are alike, and endless variations are possible.
 
-Up to date for The Bazaar patch 19.2.
+Up to date for The Bazaar patch 19.3.
 
 Item roles:
 
@@ -52,6 +52,8 @@ Items that fit the build's idea.
 ### How to play it
 
 The goal is to get the Vineyard and the Golf Clubs, then find sources of Heal (or Slow) that scale the Golf Clubs. The Lavomatique turns every Heal into a Slow and can potentially fit into any variant.
+
+Nerfed since patch 19.3: needs retesting.
 
 ## Pygmalien · Money Tree & Money Furnace
 
@@ -233,6 +235,61 @@ Items that fit the build's idea.
 - **Corkscrew**: beaucoup d'items importants sont de taille medium, corkscrew peut aider à cast une fois gratos
 
 Example board: Void Shield, Salt, Tea Siphon, Spice Rack, Birthday Cake, Zarlic.
+
+## Jules · Hachoir à Viande
+
+_Tested on patch 19.2_
+
+1 run: 10 wins.
+
+### The core
+
+- **Meat Grinder**
+
+### Variant 1: Classic
+
+What it adds:
+
+- **Pizza** · Engine. If you don't have it: Azakan Stew (ça reste un objet de multicast qui profite au Hachoir)
+- **Butter** · Engine. If you don't have it: Azakan Stew (Comme pour pizza, le beurre se fait remlacer par un autre item qui cast bien si on l'a)
+
+It looks for: Des multicasts à côté de l'item central, des skills des damage pour taper fort, et de quoi accélérer le board
+
+Flex for this variant:
+
+- **Banu Leaves**: Joue relativement souvent, chose que l'on cherche avec ce build
+- **Black Pepper**: Accélère un des items clé
+- **Pancakes**: multicast qui peut bien aller avec Le Hachoir à viande
+- **Scorchpepper** · Why not: Si besoin d'un emplacement chauffé en plus
+- **Eggs** · Why not
+- **Carving Fork**: donne des damage au Hachoir
+
+Example board: Banu Leaves, Black Pepper, Butter, Meat Grinder, Pizza, Scorchpepper, Pancakes, Eggs.
+
+## Jules · Gingerbread
+
+_Tested on patch 19.3_
+
+1 run: 7 wins.
+
+### The core
+
+- **Gingerbread House**
+
+### Variant 1: FRIGO
+
+What it adds:
+
+- **Refrigerator**
+- **Cake Batter**
+
+Flex for this variant:
+
+- **Eggs**
+- **Grater**
+- **Mouse Trap**
+
+Example board: Gingerbread House, Eggs, Grater, Cake Batter, Refrigerator, Mouse Trap.
 
 ## The Dragons · Archet Violon
 
